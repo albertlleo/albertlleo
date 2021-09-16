@@ -10,7 +10,7 @@ Passionate Deep Learning Engineer focused on Medic applications. Currently livin
 - 📫 Let's connect - [LinkedIn] (https://www.linkedin.com/in/albertlle%C3%B3/) | [Email] (albert.lleo3@gmail.com)
 - 😄 Always open to meet new people!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=260E71&center=true&vCenter=true&height=100&lines=Hi+there!+I'm+Albert+%F0%9F%91%8B;Deep+Learning+Engineer;4+year+programing+experience;Let's+connect!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF7320&center=true&vCenter=true&height=100&lines=Hi+there!+I'm+Albert+%F0%9F%91%8B;Deep+Learning+Engineer;4+year+programing+experience;Let's+connect!)](https://git.io/typing-svg)
 
 ### My favorite tools:
 
